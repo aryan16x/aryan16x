@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan16x
 - 👀 I’m interested in coding for automation.
-- 🌱 I’m currently learning vit vellore.
+- 🌱 I’m currently learning in vit vellore.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
